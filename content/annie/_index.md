@@ -1,3 +1,3 @@
 ---
-layout: kapitol
+layout: annie
 ---
